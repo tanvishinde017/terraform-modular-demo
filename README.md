@@ -22,6 +22,14 @@ This is a learning/demo project before moving to real cloud infrastructure (AWS/
 This diagram represents the modular Terraform workflow used in this project.
 
 ![Terraform Modular Workflow](docs/wf.png)
+### 🔍 Workflow Explanation
+
+1. **Initialize** – Downloads providers and modules.
+2. **Plan** – Generates execution plan.
+3. **Apply** – Provisions infrastructure.
+4. **State Management** – Tracks resource state.
+5. **Destroy** – Removes managed infrastructure.
+6. **Modules** – Networking, Compute, Storage are isolated logical components.
 
 ## 📂 Project Structure
 
