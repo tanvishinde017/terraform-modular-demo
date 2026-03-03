@@ -17,6 +17,12 @@ This is a learning/demo project before moving to real cloud infrastructure (AWS/
 
 ---
 
+## 🏗 Terraform Workflow Architecture
+
+This diagram represents the modular Terraform workflow used in this project.
+
+![Terraform Modular Workflow](docs/wf.png)
+
 ## 📂 Project Structure
 
 ```
