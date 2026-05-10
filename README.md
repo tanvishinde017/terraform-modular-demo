@@ -4,7 +4,7 @@
 
 This project demonstrates a **modular Terraform architecture** without using any cloud provider.
 
-It focuses on understanding :
+It focuses on understanding:
 
 - Terraform modules
 - Providers
@@ -12,6 +12,11 @@ It focuses on understanding :
 - Outputs
 - Root module structure
 - Resource lifecycle
+- State management
+- multi-environment deployment
+- cloud infra development
+- scalable infrastructure
+- version control integration 
 
 This is a learning/demo project before moving to real cloud infrastructure (AWS/Azure/GCP).
 
@@ -59,7 +64,7 @@ Each module creates a `random_pet` resource:
 - Compute → VM name simulation
 - Storage → Storage name simulation
 
-Root module collects outputs from each module .
+Root module collects outputs from each module.
 
 ---
 
