@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-This project demonstrates a **modular Terraform architecture** without using any cloud provider .
+This project demonstrates a **modular Terraform architecture** without using any cloud provider.
 
-It focuses on understanding:
+It focuses on understanding :
 
 - Terraform modules
 - Providers
@@ -59,7 +59,7 @@ Each module creates a `random_pet` resource:
 - Compute → VM name simulation
 - Storage → Storage name simulation
 
-Root module collects outputs from each module.
+Root module collects outputs from each module .
 
 ---
 
@@ -99,7 +99,7 @@ terraform destroy
 ✔ Root module vs child modules  
 ✔ How outputs work  
 ✔ How Terraform state works  
-✔ Resource lifecycle (create / replace / destroy)  
+✔ Resource lifecycle (create / replace / destroy / change )  
 
 ---
 
