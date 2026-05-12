@@ -4,7 +4,7 @@
 
 This project demonstrates a **modular Terraform architecture** without using any cloud provider .
 
-It focuses on understanding:
+It focuses on understanding :
 
 - Terraform modules
 - Providers
@@ -17,7 +17,7 @@ It focuses on understanding:
 - cloud infra development
 - scalable infrastructure
 - version control integration
-- env configuration
+- env configure
 
 This is a learning/demo project before moving to real cloud infrastructure (AWS/Azure/GCP).
 
