@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-This project demonstrates a **modular Terraform architecture** without using any cloud provider.
+This project demonstrates a **modular Terraform architecture** without using any cloud provider .
 
-It focuses on understanding :
+It focuses on understanding:
 
 - Terraform modules
 - Providers
@@ -106,7 +106,7 @@ terraform destroy
 ✔ Root module vs child modules  
 ✔ How outputs work  with terraform
 ✔ How Terraform state works  
-✔ Resource lifecycle (create / replace / destroy / change )  
+✔ Resource lifecycle (create / replace / destroy / change / code use)  
 
 ---
 
