@@ -1,4 +1,4 @@
-# 🚀 Terraform Modular Demo Project
+#  Terraform Modular Demo Project
 
 ## 📌 Overview
 
@@ -13,6 +13,7 @@ It focuses on understanding :
 - Root module structure
 - Resource lifecycle
 - State management
+- env management
 - multi-environment deployment
 - cloud infra development
 - scalable infrastructure
@@ -35,7 +36,7 @@ This diagram represents the modular Terraform workflow used in this project.
 3. **Apply** – Provisions infrastructure.
 4. **State Management** – Tracks resource state.
 5. **Destroy** – Removes managed infrastructure.
-6. **Modules** – Networking, Compute, Storage are isolated logical components.
+6. **Modules** – Networking, Compute, Storage are isolated logical components with data.
 
 ## 📂 Project Structure
 
@@ -62,7 +63,7 @@ terraform-devops-project/
 Each module creates a `random_pet` resource:
 
 - Networking → VPC name simulation
-- Compute → VM name simulation
+- Compute → VM name simulation 
 - Storage → Storage name simulation
 
 Root module collects outputs from each module.
@@ -103,7 +104,7 @@ terraform destroy
 
 ✔ Understanding modular Terraform design  
 ✔ Root module vs child modules  
-✔ How outputs work  
+✔ How outputs work  with terraform
 ✔ How Terraform state works  
 ✔ Resource lifecycle (create / replace / destroy / change )  
 
