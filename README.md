@@ -19,7 +19,6 @@ It focuses on understanding:
 - scalable infrastructure
 - version control integration
 
-
 This is a learning/demo project before moving to real cloud infrastructure (AWS/Azure/GCP).
 
 ---
