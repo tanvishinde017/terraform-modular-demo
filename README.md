@@ -18,7 +18,7 @@ It focuses on understanding:
 - cloud infra development
 - scalable infrastructure
 - version control integration
-- env configure
+
 
 This is a learning/demo project before moving to real cloud infrastructure (AWS/Azure/GCP).
 
