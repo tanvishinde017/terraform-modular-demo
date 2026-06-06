@@ -65,7 +65,7 @@ Each module creates a `random_pet` resource:
 - Compute → VM name simulation 
 - Storage → Storage name simulation
 
-Root module collects outputs from each module.
+Root module collects outputs from each module .
 
 ---
 
