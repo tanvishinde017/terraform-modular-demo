@@ -27,6 +27,7 @@ This is a learning/demo project before moving to real cloud infrastructure (AWS/
 
 This diagram represents the modular Terraform workflow used in this project.
 
+
 ![Terraform Modular Workflow](docs/wf.png)
 ### 🔍 Workflow Explanation
 
