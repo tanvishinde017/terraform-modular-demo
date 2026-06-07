@@ -6,7 +6,6 @@ This project demonstrates a **modular Terraform architecture** without using any
 
 It focuses on understanding:
 
-
 - Terraform modules
 - Providers
 - State management
