@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project demonstrates a **modular Terraform architecture** without using any cloud provider 
+This project demonstrates a **modular Terraform architecture** without using any cloud provider.
 
 It focuses on understanding:
 
